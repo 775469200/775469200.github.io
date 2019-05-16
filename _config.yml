@@ -6,19 +6,19 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
-subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
+title:  奋斗ing
+subtitle: 学无止境
+name: 奋斗ing 
 email: ityouknow@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+description: 本站是奋斗ing的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
+# keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
-favicon: favicon.ico 
+# favicon: favicon.ico 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: 775469200/775469200.github.io
+github_url: https://github.com/775469200
+# url: http://www.ityouknow.com
+# enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
@@ -54,37 +54,37 @@ paginate: 12
 paginate_path: 'page:num'
 
 # Navigation. top menu list
-menus:
-
-  -
-    href: /zsxq.html
-    label: 星球
-    target: _self
-
-  -
-    href: /gitchat.html
-    label: Chat
-    target: _self
-
-  -
-    href: /geektime.html
-    label: 极客
-    target: _self
-
-  -
-    href: /life.html
-    label: 故事
-    target: _self
-
-  -
-    href: /arch.html
-    label: 架构
-    target: _self
-
-  -
-    href: /link.html
-    label: 友链
-    target: _self
+#menus:
+#
+#  -
+#    href: /zsxq.html
+#    label: 星球
+#    target: _self
+#
+#  -
+#    href: /gitchat.html
+#    label: Chat
+#    target: _self
+#
+#  -
+#    href: /geektime.html
+#    label: 极客
+#    target: _self
+#
+#  -
+#    href: /life.html
+#    label: 故事
+#    target: _self
+#
+#  -
+#    href: /arch.html
+#    label: 架构
+#    target: _self
+#
+#  -
+#    href: /link.html
+#    label: 友链
+#    target: _self
 
 
 
@@ -113,12 +113,12 @@ navs:
     href: /spring-cloud.html
     label: Spring Cloud
     target: _self
-
-  -
-    
-    href: http://www.justdojava.com
-    label: Java
-    target: _blank
+#
+#  -
+#    
+#    href: http://www.justdojava.com
+#    label: Java
+#    target: _blank
 
   -
     href: /archives.html
@@ -132,42 +132,42 @@ navs:
 
 
 # labels. my blog key words
-labels:
-
-  -
-    href: /payment.html
-    label: 支付     
-    target: _self
-
-  -
-    href: /fastdfs.html
-    label: FastDFS
-    target: _blank
-
-  -
-    href: /mongodb.html
-    label: MongoDB
-    target: _blank
-
-  -
-    href: /docker.html
-    label: Docker
-    target: _blank
-
-  -
-    href: /open-source.html
-    label: Code  
-    target: _blank
-
-  -
-    href: /it.html
-    label: IT 
-    target: _blank
-
-  -
-    href: /python.html
-    label: Python  
-    target: _blank
+#labels:
+#
+#  -
+#    href: /payment.html
+#    label: 支付     
+#    target: _self
+#
+#  -
+#    href: /fastdfs.html
+#    label: FastDFS
+#    target: _blank
+#
+#  -
+#    href: /mongodb.html
+#    label: MongoDB
+#    target: _blank
+#
+#  -
+#    href: /docker.html
+#    label: Docker
+#    target: _blank
+#
+#  -
+#    href: /open-source.html
+#    label: Code  
+#    target: _blank
+#
+#  -
+#    href: /it.html
+#    label: IT 
+#    target: _blank
+#
+#  -
+#    href: /python.html
+#    label: Python  
+#    target: _blank
 
 
 # selected articles
